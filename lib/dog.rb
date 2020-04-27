@@ -8,3 +8,6 @@ class Dog
   
   fido.bark
  puts "woof!"
+ end
+end
+ 
