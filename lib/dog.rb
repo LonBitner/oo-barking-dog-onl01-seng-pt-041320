@@ -7,4 +7,4 @@ class Dog
   fido.name = "Fido"
   
   fido.bark
-  woof!
+ puts "woof!"
